@@ -1,0 +1,34 @@
+h1 {
+
+}
+
+h2 {
+
+}
+
+p {
+
+}
+
+.main {
+  display:flex;
+  flex-direction: row;
+  justify-content:space-between;
+  padding-bottom: 50px;
+
+
+}
+
+.best {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-around;
+  color: red
+
+
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
