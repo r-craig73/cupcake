@@ -1,13 +1,13 @@
 h1 {
-
+  color: greenyellow;
 }
 
 h2 {
-
+  color: goldenrod;
 }
 
 p {
-
+  font-size: 32px;
 }
 
 .main {
@@ -15,8 +15,6 @@ p {
   flex-direction: row;
   justify-content:space-between;
   padding-bottom: 50px;
-
-
 }
 
 .best {
@@ -24,8 +22,6 @@ p {
   flex-flow: row;
   justify-content: space-around;
   color: red
-
-
 }
 
 .flashy {
